@@ -1,9 +1,4 @@
-//
-//  AppDelegate.swift
-//  Test
-//
-//  Created by User on 16.02.2021.
-//
+
 
 import UIKit
 
